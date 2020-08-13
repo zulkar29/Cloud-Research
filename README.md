@@ -25,8 +25,8 @@ To access a Postgres prompt: psql  <br/>
 create database: create database db_name; <br/>
 drop database: drop database db_name; 
 show database: \l
-
 Current Database and User: \c postgres;
+![](images/database.png)
 
 # Create Table
 
