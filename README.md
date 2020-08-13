@@ -6,6 +6,7 @@ sudo apt-get install postgresql postgresql-contrib <br />
 
 # Check PostgreSQL status 
 sudo systemctl status postgresql <br/> 
+![](images/status.png)
 
 # Connect to psql <br/> 
 sudo su postgres <br/> 
@@ -16,8 +17,9 @@ another way to access: sudo -i -u postgres
 
 To access a Postgres prompt: psql  <br/> 
 ![](images/psql.png)
+
 # For Exit: \q     
- ![](images/q.png)
+![](images/q.png)
 
 # Create Database:
 create database: create database db_name; <br/>
