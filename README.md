@@ -11,6 +11,9 @@ sudo systemctl status postgresql <br/>
 sudo su postgres <br/> 
 psql <br/> 
 
+another way to access: sudo -i -u postgres
+![](images/access.png)
+
 # For Exit: \q
 
 # Create Database:
