@@ -14,10 +14,11 @@ psql <br/>
 another way to access: sudo -i -u postgres
 ![](images/access.png)
 
-To access a Postgres prompt: psql
+To access a Postgres prompt: psql  <br/> 
 ![](images/psql.png)
-# For Exit: \q
-![](images/q.png)
+# For Exit: \q     
+ <br/> 
+ ![](images/q.png)
 
 # Create Database:
 create database: create database db_name; <br/>
