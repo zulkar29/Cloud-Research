@@ -1,11 +1,11 @@
 # Cloud-Research
 
-# For Install PostgreSQL in Linux:
-sudo apt-get update
-sudo apt-get install postgresql postgresql-contrib
+# For Install PostgreSQL in Linux: <br /> 
+sudo apt-get update <br /> 
+sudo apt-get install postgresql postgresql-contrib <br /> 
 
-# Check PostgreSQL status
-sudo systemctl status postgresql
+# Check PostgreSQL status 
+sudo systemctl status postgresql <br /> 
 
 # Connect to psql 
 
