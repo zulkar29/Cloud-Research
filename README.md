@@ -28,12 +28,25 @@ show database: \l <br/>
 Current Database and User: \c postgres;  <br/>
 ![](images/database.png)
 
-# Create Table
+# Create Table:
+Example code: 
+CREATE TABLE weather (
+    city            varchar(80),
+    temp_lo         int,           -- low temperature
+    temp_hi         int,           -- high temperature
+    prcp            real,          -- precipitation
+    date            date
+); <br/>
+![](images/ntable.png)
 
-# Insert Data
+# Inser data:
+INSERT INTO weather VALUES ('San Francisco', 46, 50, 0.25, '1994-11-27'); <br/>
+![](images/insert.png)
 
 # View Data
+Example code: SELECT * FROM weather; <br/>
+![](images/view.png)
 
-# Upadate Data
-
-# Delete Data
+# Drop Table:
+Example code: DROP TABLE weather; <br/>
+![](images/drop.png)
