@@ -17,7 +17,6 @@ another way to access: sudo -i -u postgres
 To access a Postgres prompt: psql  <br/> 
 ![](images/psql.png)
 # For Exit: \q     
- <br/> 
  ![](images/q.png)
 
 # Create Database:
